@@ -8,10 +8,9 @@
 exclude: ['_site', 'vendor']
 
 # Site settings
-title: sense
+title: sense home
 email: sense@domain.com
-description: >
-  Site is under construct... content will be added later, sorry!
+description: playlists - music - hardware - software
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://aleksandrgilfanov.github.io"
 twitter_username: gilfanov_a
