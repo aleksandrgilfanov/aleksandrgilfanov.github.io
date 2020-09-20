@@ -20,4 +20,5 @@ github_username:  aleksandrgilfanov
 # Build settings
 markdown: kramdown
 
+show_excerpts: true
 theme: jekyll-theme-midnight
