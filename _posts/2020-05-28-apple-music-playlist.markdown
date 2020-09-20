@@ -4,7 +4,7 @@ title:  "new playlist: S 2020-05-27"
 date:   2020-05-27 19:33:48 +0300
 image: /img/S2020-05-27.jpg
 author: Aleksandr Gilfanov
-categories: jekyll update
+categories: playlist
 playlist_link: https://music.apple.com/ru/playlist/s-2020-05-27/pl.u-4kZBhGdrB9E
 excerpt_separator: <!--more-->
 ---
