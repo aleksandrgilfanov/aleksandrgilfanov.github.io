@@ -11,7 +11,7 @@ email: sense@domain.com
 description: >
   Site is under construct... content will be added later, sorry!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://aleksandrgilfanov.github.io"
 twitter_username: gilfanov_a
 github_username:  aleksandrgilfanov
 
