@@ -3,13 +3,32 @@ layout: page
 title: About
 permalink: /about/
 ---
+### my interests
+* software
+* hardware
+* engineering
+* linux
+* c
+* embedded
+* networking
+* automation
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+* techno
+* music
+* recording
+* performing
+* ableton & max
+* guitars
+* keys
+* pads
+* musical interfaces
+* ios music
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+### employed at
+* [numa technology](https://www.numatech.ru/)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+### about me
+* [my cv](https://docs.google.com/document/d/1T_GJJkb7NBP4ZwT6fkhGuvXdFsVpA_BXSdIJQyMeO_c/edit?usp=sharing)
+* [my instagram](https://www.instagram.com/seensik)
+* [my twitter](https://twitter.com/gilfanov_a)
+* [my linkedin](https://www.linkedin.com/in/aleksandr-gilfanov-58355653)
