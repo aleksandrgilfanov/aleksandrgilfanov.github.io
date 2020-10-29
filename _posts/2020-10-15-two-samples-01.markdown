@@ -13,6 +13,7 @@ make a track. This track should be made with using only two samples. One sample
 is recorded by me, another by him. You are not limited by anything: record
 your environment with your's iphone mic, record synth, process it with effects etc.
 <!--more-->
+
 Sense sample:
 
 /mp3/sample-sense-1.mp3
