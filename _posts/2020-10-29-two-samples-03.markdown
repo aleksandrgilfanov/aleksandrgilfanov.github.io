@@ -12,21 +12,19 @@ every week, we are making track as a challenge. Each one has only one hour to
 make a track. This track should be made with using only two samples. One sample
 is recorded by me, another by him. You are not limited by anything: record
 your environment with your's iphone mic, record synth, process it with effects etc.
-
+<!--more-->
 Sense sample:
 
-./mp3/sample-sense-3.mp3
+/mp3/sample-sense-3.mp3
 
 El sample:
 
-./mp3/sample-el-3.mp3
+/mp3/sample-el-3.mp3
 
 Sense track:
 
-./mp3/TwoSample-sense-03.mp3
+/mp3/TwoSample-sense-03.mp3
 
 El track:
 
-./mp3/TwoSample-el-03.mp3
-
-<!--more-->
+/mp3/TwoSample-el-03.mp3
