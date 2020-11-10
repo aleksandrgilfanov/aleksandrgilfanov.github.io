@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "two samples challenge 04"
+date:   2020-11-04 10:00:00 +0300
+author: Aleksandr Gilfanov
+categories: news
+excerpt_separator: <!--more-->
+---
+[Me](https://github.com/aleksandrgilfanov) and
+[Aleksandr Karabatov](https://github.com/elektron314) are making some fun
+every week, we are making track as a challenge. Each one has only one hour to
+make a track. This track should be made with using only two samples. One sample
+is recorded by me, another by him. You are not limited by anything: record
+your environment with your's iphone mic, record synth, process it with effects etc.
+<!--more-->
+
+Sense sample:
+
+/mp3/sample-sense-4.mp3
+
+El sample:
+
+/mp3/sample-el-4.mp3
+
+Sense track:
+
+/mp3/TwoSample-sense-04.mp3
+
+El track:
+
+/mp3/TwoSample-el-04.mp3
