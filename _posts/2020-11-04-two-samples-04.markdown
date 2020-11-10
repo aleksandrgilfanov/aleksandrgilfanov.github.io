@@ -6,6 +6,8 @@ author: Aleksandr Gilfanov
 categories: news
 excerpt_separator: <!--more-->
 ---
+<img src="/img/two-sample-4.jpg">
+
 [Me](https://github.com/aleksandrgilfanov) and
 [Aleksandr Karabatov](https://github.com/elektron314) are making some fun
 every week, we are making track as a challenge. Each one has only one hour to
