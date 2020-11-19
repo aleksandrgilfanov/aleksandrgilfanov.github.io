@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "two samples challenge 06"
+date:   2020-11-19 10:00:00 +0300
+author: Aleksandr Gilfanov
+categories: news
+excerpt_separator: <!--more-->
+---
+Two Sample Challenge 06 by
+[Me](https://github.com/aleksandrgilfanov) and
+[Aleksandr Karabatov](https://github.com/elektron314)
+<!--more-->
+
+Sense sample:
+
+/mp3/sample-sense-6.mp3
+
+El sample:
+
+/mp3/sample-el-6.mp3
+
+Mitya sample:
+
+/mp3/sample-mitya-6.mp3
+
+Sense track:
+
+/mp3/TwoSample-sense-06.mp3
+
+El track:
+
+/mp3/TwoSample-el-06.mp3
