@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "two samples challenge 07"
+date:   2020-11-26 10:00:00 +0300
+author: Aleksandr Gilfanov
+categories: news
+excerpt_separator: <!--more-->
+---
+Two Sample Challenge 07 by
+[Me](https://github.com/aleksandrgilfanov) and
+[Aleksandr Karabatov](https://github.com/elektron314)
+<!--more-->
+
+Sense sample:
+
+/mp3/sample-sense-7.mp3
+
+El sample:
+
+/mp3/sample-el-7.mp3
+
+Mitya sample:
+
+/mp3/sample-mitya-7.mp3
+
+Sense track:
+
+/mp3/TwoSample-sense-07.mp3
+
+El track:
+
+/mp3/TwoSample-el-07.mp3
+
+Mitya track:
+
+/mp3/TwoSample-mitya-07.mp3
