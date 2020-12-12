@@ -13,16 +13,16 @@ Two Sample Challenge 08 by
 
 Sense sample:
 
-/mp3/sample-sense-8.mp3
+/mp3/sample-2020-08-sense.mp3
 
 El sample:
 
-/mp3/sample-el-8.mp3
+/mp3/sample-2020-08-el.mp3
 
 Sense track:
 
-/mp3/TwoSample-sense-08.mp3
+/mp3/track-2020-08-sense.mp3
 
 El track:
 
-/mp3/TwoSample-el-08.mp3
+/mp3/track-2020-08-el.mp3

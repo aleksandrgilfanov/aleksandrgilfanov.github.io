@@ -15,16 +15,16 @@ You have only one hour to make a track using only two samples.
 
 Sense sample:
 
-/mp3/sample-sense-9.mp3
+/mp3/sample-2020-09-sense.mp3
 
 El sample:
 
-/mp3/sample-el-9.mp3
+/mp3/sample-2020-09-el.mp3
 
 Sense track:
 
-/mp3/TwoSample-sense-09.mp3
+/mp3/track-2020-09-sense.mp3
 
 El track:
 
-/mp3/TwoSample-el-09.mp3
+/mp3/track-2020-09-el.mp3

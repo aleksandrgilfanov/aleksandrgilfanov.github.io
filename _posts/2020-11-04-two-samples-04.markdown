@@ -6,7 +6,7 @@ author: Aleksandr Gilfanov
 categories: news
 excerpt_separator: <!--more-->
 ---
-<img src="/img/two-sample-4.jpg">
+<img src="/img/two-sample-2020-04.jpg">
 
 [Me](https://github.com/aleksandrgilfanov) and
 [Aleksandr Karabatov](https://github.com/elektron314) are making some fun
@@ -18,16 +18,16 @@ your environment with your's iphone mic, record synth, process it with effects e
 
 Sense sample:
 
-/mp3/sample-sense-4.mp3
+/mp3/sample-2020-04-sense.mp3
 
 El sample:
 
-/mp3/sample-el-4.mp3
+/mp3/sample-2020-04-el.mp3
 
 Sense track:
 
-/mp3/TwoSample-sense-04.mp3
+/mp3/track-2020-04-sense.mp3
 
 El track:
 
-/mp3/TwoSample-el-04.mp3
+/mp3/track-2020-04-el.mp3

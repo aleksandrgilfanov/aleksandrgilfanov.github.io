@@ -13,24 +13,24 @@ Two Sample Challenge 07 by
 
 Sense sample:
 
-/mp3/sample-sense-7.mp3
+/mp3/sample-2020-07-sense.mp3
 
 El sample:
 
-/mp3/sample-el-7.mp3
+/mp3/sample-2020-07-el.mp3
 
 Mitya sample:
 
-/mp3/sample-mitya-7.mp3
+/mp3/sample-2020-07-mitya.mp3
 
 Sense track:
 
-/mp3/TwoSample-sense-07.mp3
+/mp3/track-2020-07-sense.mp3
 
 El track:
 
-/mp3/TwoSample-el-07.mp3
+/mp3/track-2020-07-el.mp3
 
 Mitya track:
 
-/mp3/TwoSample-mitya-07.mp3
+/mp3/track-2020-07-mitya.mp3

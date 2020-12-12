@@ -16,16 +16,16 @@ your environment with your's iphone mic, record synth, process it with effects e
 
 Sense sample:
 
-/mp3/sample-sense-2.mp3
+/mp3/sample-2020-02-sense.mp3
 
 El sample:
 
-/mp3/sample-el-2.mp3
+/mp3/sample-2020-02-el.mp3
 
 Sense track:
 
-/mp3/TwoSample-sense-02.mp3
+/mp3/track-2020-02-sense.mp3
 
 El track:
 
-/mp3/TwoSample-el-02.mp3
+/mp3/track-2020-02-el.mp3
