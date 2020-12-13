@@ -4,7 +4,7 @@ FILESDIR="$1"
 
 MP3DIR="./mp3"
 POSTDIR="./_posts"
-DATE=$(date -I)
+DATE=$(date +%Y-%m-%d)
 TIME=$(date +%T)
 YEAR=$(date +%Y)
 
