@@ -48,21 +48,13 @@ Two Sample Challenge $NUM by
 You have only one hour to make a track using only two samples.
 <!--more-->
 
-Sense sample:
+[Sense sample](/mp3/sample-$YEAR-$NUM-sense.mp3)
 
-/mp3/sample-$YEAR-$NUM-sense.mp3
+[El sample](/mp3/sample-$YEAR-$NUM-el.mp3)
 
-El sample:
+[Sense track](/mp3/track-$YEAR-$NUM-sense.mp3)
 
-/mp3/sample-$YEAR-$NUM-el.mp3
-
-Sense track:
-
-/mp3/track-$YEAR-$NUM-sense.mp3
-
-El track:
-
-/mp3/track-$YEAR-$NUM-el.mp3
+[El track](/mp3/track-$YEAR-$NUM-el.mp3)
 EOF
 
 echo Creating commit...
