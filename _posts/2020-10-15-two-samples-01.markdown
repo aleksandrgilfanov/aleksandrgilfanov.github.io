@@ -14,18 +14,10 @@ is recorded by me, another by him. You are not limited by anything: record
 your environment with your's iphone mic, record synth, process it with effects etc.
 <!--more-->
 
-Sense sample:
+[Sense sample](/mp3/sample-2020-01-sense.mp3)
 
-/mp3/sample-2020-01-sense.mp3
+[El sample](/mp3/sample-2020-01-el.mp3)
 
-El sample:
+[Sense track:](/mp3/track-2020-01-sense.mp3)
 
-/mp3/sample-2020-01-el.mp3
-
-Sense track:
-
-/mp3/track-2020-01-sense.mp3
-
-El track:
-
-/mp3/track-2020-01-el.mp3
+[El track](/mp3/track-2020-01-el.mp3)

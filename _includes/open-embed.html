@@ -66,10 +66,11 @@ function video_embed() {
 video_embed();
 
 function mp3_embed() {
-    var p = document.getElementsByTagName('p');
+    var p = document.getElementsByTagName('a');
     for(var i = 0; i < p.length; i++) {
-        if(p[i].innerHTML.indexOf('.mp3') !== -1) {
-            var str = p[i].innerHTML.split('?');
+        if (p[i].href.includes("/mp3")) {
+            var para = document.createElement("p")
+            var str = p[i].href.split('?');
             if(str.length == 1) str[1] = '';
             var str1 = str[1];
             str1 = str1.replace('&','').replace('&','');
@@ -86,7 +87,8 @@ function mp3_embed() {
                 if(loop==1) newInnerHTML += ' loop';
                 if(controls==1) newInnerHTML += ' controls';
                 newInnerHTML += '><source src="'+str[0]+'" type="audio/mpeg">Your browser does not support the audio element.</audio>';
-                p[i].innerHTML = newInnerHTML;
+                para.innerHTML = newInnerHTML;
+                p[i].parentElement.appendChild(para, p[i])
             }
         }
     }

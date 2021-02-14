@@ -11,18 +11,10 @@ Maestro and Darbuka in Two Sample Challenge 05 by
 [Aleksandr Karabatov](https://github.com/elektron314)
 <!--more-->
 
-Sense sample:
+[Sense sample](/mp3/sample-2020-05-sense.mp3)
 
-/mp3/sample-2020-05-sense.mp3
+[El sample](/mp3/sample-2020-05-el.mp3)
 
-El sample:
+[Sense track](/mp3/track-2020-05-sense.mp3)
 
-/mp3/sample-2020-05-el.mp3
-
-Sense track:
-
-/mp3/track-2020-05-sense.mp3
-
-El track:
-
-/mp3/track-2020-05-el.mp3
+[El track](/mp3/track-2020-05-el.mp3)
