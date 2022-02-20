@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "two samples challenge 01"
+date:   2022-02-20 11:33:04 +0300
+author: Aleksandr Gilfanov
+categories: news
+excerpt_separator: <!--more-->
+---
+Two Sample Challenge 01 by
+[Me](https://github.com/aleksandrgilfanov) and
+[Aleksandr Karabatov](https://github.com/elektron314)
+
+You have only one hour to make a track using only two samples.
+<!--more-->
+
+[Sense sample](/mp3/sample-2022-01-sense.mp3)
+
+[El sample](/mp3/sample-2022-01-el.mp3)
+
+[Sense track](/mp3/track-2022-01-sense.mp3)
+
+[El track](/mp3/track-2022-01-el.mp3)
