@@ -7,8 +7,9 @@ permalink: /about/
 * software
 * hardware
 * engineering
-* linux
+* linux (kernel & userspace)
 * c
+* asm
 * embedded
 * networking
 * automation
@@ -25,7 +26,11 @@ permalink: /about/
 * ios music
 
 ### employed at
-* [numa technology](https://www.numatech.ru/)
+* 2011-2014 [censor monitoring](https://www.censor-m.ru)
+* 2014-2016 [morion](https://www.morion.ru)
+* 2016-2021 [numa technology](https://www.numatech.ru/)
+* 2020-now [apstec systems](https://apstecsystems.com/)
+* 2021-now [cloudlinux](https://www.cloudlinux.com)
 
 ### about me
 * [my cv](https://docs.google.com/document/d/1T_GJJkb7NBP4ZwT6fkhGuvXdFsVpA_BXSdIJQyMeO_c/edit?usp=sharing)
